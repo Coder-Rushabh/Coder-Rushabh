@@ -1,9 +1,11 @@
+
+![Rushabh](https://github.com/Coder-Rushabh/Coder-Rushabh/assets/47267236/ceb644ea-79a7-4ef4-bbd9-9fa15b05b29d)
+
 - 👋 Hi, I’m @Coder-Rushabh
-- 👀 I’m interested in web designing, python programming, flutter development..
+  
+- 👀 I’m interested in Full Stack Development, Web Designing, and Mobile Apps Development.
 
-- 📫 Reach me on Instagram [@mr._rushabh_](https://www.instagram.com/mr._rushabh_/)
+- 🎭 I use Python and Golang for the Backend and Flutter, Angular, and React for Frontend! 
 
-<!---
-Coder-Rushabh/Coder-Rushabh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 Reach me out on LinkedIn [Rushabh Dabhade](https://in.linkedin.com/in/rushabh-dabhade-4aa805227)
+
