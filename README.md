@@ -1,5 +1,5 @@
 
-![Rushabh](https://github.com/Coder-Rushabh/Coder-Rushabh/assets/47267236/60e54f2b-78a0-46fe-8714-34647ff6b8b4)
+![Rushabh](https://github.com/Coder-Rushabh/Coder-Rushabh/assets/47267236/07e6f4a9-b128-4dfd-b7f5-ac3ddae0702e)
 
 - 👋 Hi, I’m @Coder-Rushabh
   
