@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Rushabh</a></h1>
-<h3 align="center">A passionate Full Stack Developer and a Cloud Architecture</h3>
+<h3 align="center">A passionate Full Stack Developer and a Cloud Architect</h3>
 <br>
 
 <a target="_blank" align="center">
