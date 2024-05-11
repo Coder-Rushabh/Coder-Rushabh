@@ -23,7 +23,7 @@ Rushabh</a></h1>
 
 - 📫 Mail me at **rushabhdabhade30@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/Coder-Rushabh/Coder-Rushabh/files/14554696/Rushabh.Dabhade.updated.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/Coder-Rushabh/Coder-Rushabh/files/15282397/Rushabh.Dabhade.updated.2.pdf" target="blank">Resume</a>
 <br/>
 
 
