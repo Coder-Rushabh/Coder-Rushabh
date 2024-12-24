@@ -1,5 +1,5 @@
 
-![Rushabh](https://github.com/Coder-Rushabh/Coder-Rushabh/assets/47267236/07e6f4a9-b128-4dfd-b7f5-ac3ddae0702e)
+![1730960788575](https://github.com/user-attachments/assets/24e06a8c-dfc4-44bd-b1a8-2d9ceef224ac)
 
 
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
